@@ -62,6 +62,3 @@ https://github.com/user-attachments/assets/858f4fb5-c036-4546-b83d-648d49ec1aed
 3. Run it on an emulator or physical device.
 4. Start adding and managing your daily tasks!
 
-## 👨‍💻 Author
-
-Made with ❤️ by **Dabeer**
